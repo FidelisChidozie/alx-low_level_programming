@@ -6,7 +6,7 @@
  *
  * Return: String length
  */
-int _strien(char *s)
+int _strlen(char *s)
 {
 	int c = 0;
 
